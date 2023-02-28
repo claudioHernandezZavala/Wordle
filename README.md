@@ -34,9 +34,9 @@ Here's a walkthrough of implemented user stories:
 ![App walkthrough wordle](https://user-images.githubusercontent.com/101302200/221724024-d7146a8b-8c61-49b0-9132-cc74c9501352.gif)
 
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
-<!-- Recommended tools:
+
 [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
